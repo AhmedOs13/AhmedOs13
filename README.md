@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing **RespiraCare**, a real-time bio-synchronized respiratory actuation system using Arduino and Proteus.<br>👯 I’m looking to collaborate on open-source computational biomedical engineering projects and data-driven healthcare solutions.<br>🤝 I’m looking for help with advanced machine learning integration for real-time physiological signal classification.<br>🌱 I’m currently learning advanced computational methodologies to prepare for my Master's studies in Biomedical Engineering at RWTH Aachen.<br>💬 Ask me about Biomedical signal processing (MATLAB/Python), microcontroller programming (C/C++), and troubleshooting hardware circuits like Colpitts oscillators or ECG simulators.
+I’m an undergraduate biomedical engineering student passionate about applying data analysis and signal processing to healthcare innovation. My academic background and project work focus on biomedical signal interpretation, algorithm design, and simulation. I aim to gain international research experience in computational biomedical engineering and contribute to data-driven healthcare solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedosamaofficial) 
